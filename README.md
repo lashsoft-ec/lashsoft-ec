@@ -1,6 +1,6 @@
 # 👋 Bienvenido a LashSoft
 
-![LashSoft Logo](https://lashsoft.com/assets/logo.png) <!-- Cambia esta URL por tu logo -->
+![LashSoft Logo](https://lashsoft.com/logo.png) <!-- Cambia esta URL por tu logo -->
 
 Somos **LashSoft**, una empresa de desarrollo de software especializada en soluciones **web, móviles y sistemas empresariales**.  
 Nuestra misión es crear aplicaciones **escalables, eficientes y fáciles de mantener**, ofreciendo tecnología de vanguardia a nuestros clientes.
