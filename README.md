@@ -1,7 +1,32 @@
-# 👋 Bienvenido a LashSoft
+<p align="center">
+  <img src="https://lashsoft.com/logo.png" alt="LashSoft Logo" style="width:100%;height: 500px; opacity:0.95;" />
+</p>
 
-¡Hola! Soy **[Tu Nombre]**, desarrollador full-stack apasionado por crear soluciones escalables y eficientes.  
-Aquí puedes ver un resumen de las tecnologías y herramientas que manejo:
+<h1 align="center">
+👋 Bienvenido a LashSoft
+</h1>
+
+
+<strong>Software a la medida · Arquitectura limpia · Soluciones escalables</strong>
+
+
+* Somos una empresa de desarrollo de software especializada en crear soluciones digitales modernas, seguras y
+  escalables.
+* En **LashSoft** diseñamos, construimos y desplegamos sistemas listos para producción, combinando buena arquitectura,
+  automatización y experiencia real.
+
+Ayudamos a empresas y emprendedores a transformar ideas en plataformas confiables, fáciles de mantener y preparadas para
+crecer.
+
+---
+
+## 🏢 ¿Qué hacemos?
+
+- Desarrollo de aplicaciones web y empresariales
+- APIs, microservicios e integraciones
+- Arquitectura limpia y buenas prácticas
+- Automatización y DevOps
+- Seguridad, autenticación y despliegues
 
 ---
 
@@ -22,31 +47,42 @@ Aquí puedes ver un resumen de las tecnologías y herramientas que manejo:
   <img src="https://img.shields.io/badge/GitLab-CB3837?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
----
+[//]: # (---)
 
-## ✨ Flujo de trabajo CI/CD
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" /> → <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="40" /> → <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" /> → Deploy en servidores Nginx
-</p>
+[//]: # ()
+[//]: # (## ✨ Flujo de trabajo CI/CD)
 
----
+[//]: # ()
+[//]: # (<p align="center">)
 
-## 📈 Estadísticas
+[//]: # (  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" /> → <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="40" /> → <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" /> → Deploy en servidores Nginx)
 
-![LashSoft GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+[//]: # (</p>)
 
----
+[//]: # ()
+[//]: # (---)
 
-## 🎨 Animación de tecnologías
+[//]: # (## 📈 Estadísticas)
 
-<p align="center">
-  <img src="https://github.com/TU_USUARIO/TU_REPO/blob/main/assets/tech-animation.gif" alt="Animación Tecnologías" />
-</p>
+[//]: # ()
+[//]: # (![LashSoft GitHub Stats]&#40;https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&#41;)
 
----
+[//]: # ()
+[//]: # (---)
+
+[//]: # (## 🎨 Animación de tecnologías)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github.com/TU_USUARIO/TU_REPO/blob/main/assets/tech-animation.gif" alt="Animación Tecnologías" />)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (---)
 
 ## 📫 Contacto
 
 - 🌐 Web: [lashsoft.com](https://lashsoft.com)
-- 📧 Email: contacto@lashsoft.com
-- 💼 LinkedIn: [LashSoft](https://linkedin.com/in/lashsoft)
+- 📧 Email: info@lashsoft.com
